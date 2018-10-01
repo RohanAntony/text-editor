@@ -1,0 +1,16 @@
+html{
+  width: 98.5%;
+  height: 100%;
+
+}
+
+body{
+  width: 100%;
+  height: 50%;
+}
+
+#ContentEditor{
+  width:100%;
+  height: 100%;
+  border: 1px solid black;
+}
